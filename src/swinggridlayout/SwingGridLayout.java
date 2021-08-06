@@ -20,8 +20,6 @@ public class SwingGridLayout {
     f.add(new JButton("Button One"));
      f.add(new JButton("Button Five"));
     f.add(new JButton("Button Two"));
-   
-   ;
     f.add(new JButton("Button Six"));
     f.add(new JLabel("Hello"));
     f.add(new JButton("Button Seven"));
